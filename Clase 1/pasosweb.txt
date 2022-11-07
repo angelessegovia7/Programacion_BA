@@ -1,0 +1,7 @@
+
+Pasos para una app web
+1. Sketch web
+2. Wireframe
+3. Prototipo Estático
+4. Prototipo Dinámico
+5. Deploy
